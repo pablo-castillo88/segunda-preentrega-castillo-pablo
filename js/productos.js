@@ -1,0 +1,21 @@
+const productos = [
+    {id:01, tipo:"Libro", nombre:"LEON TOLSTOI - (GUERRA Y PAZ 1)", precio: 1400, foto: " " },
+    {id:02, tipo:"Libro", nombre:"LEON TOLSTOI - (GUERRA Y PAZ 2)", precio: 1400, foto: " " },
+    {id:03, tipo:"Libro", nombre:"HOMERO - LA ILIADA", precio: 1000, foto: " " },
+    {id:04, tipo:"Libro", nombre:"HOMERO - LA ODISEA", precio: 1000, foto: " " },
+    {id:05, tipo:"Libro", nombre:"FRANZ KAFKA - (METAMORFOSIS)", precio: 1400, foto: " " },
+    {id:06, tipo:"Libro", nombre:"ARISTOTELES - (ETICA NICOMAQUEA)", precio: 1500, foto: " " },
+    {id:07, tipo: "Libro", nombre: "ARISTOTELES - (EL ARTE DE LA RETORICA)", precio: 4500, foto: " "},
+    {id:08, tipo: "Libro", nombre: "ARISTOTELES - (METAFISICA)", precio: 3800, foto: " "},
+    {id:09, tipo: "Libro", nombre: "ARISTOTELES - (LA POLITICA)", precio: 3800, foto: " "},
+    {id:10, tipo: "Libro", nombre: "SCHOPENHAUER (EL RECONOCIMIENTO DE LO IRRACIONAL COMO LA FUERZA DOMINANTE DEL UNIVERSO)", precio: 3800, foto: " "},
+    {id:11, tipo: "Libro", nombre: "SCHOPENHAUER (LA CUADRUPLE RAIZ DEL PRINCIPIO DE RAZON SUFICIENTE)", precio: 2900, foto: " "},
+    {id:13, tipo: "Libro", nombre: "SCHOPENHAUER (ENSAYO SOBRE EL LIBRE ALBEDRIO)", precio: 1000, foto: " "},
+    {id:14, tipo: "Libro", nombre: "FRIEDRICH NIETZSCHE (ASI HABLO ZARATUSTRA)", precio: 1300, foto: " "},
+    {id:15, tipo: "Libro", nombre: "FRIEDRICH NIETZSCHE (LA GAYA CIENCIA)", precio: 2300, foto: " "},
+    {id:16, tipo: "Libro", nombre: "FRIEDRICH NIETZSCHE (EL ANTICRISTO)", precio: 2400, foto: " "},
+    {id:17, tipo: "Libro", nombre: "NICHOLAS CAPALDI (COMO GANAR UNA DISCUSION)", precio: 800, foto: " "},
+    {id:18, tipo: "Libro", nombre: "SENECA (EPISTOLAS MORALES A LUCILIO - 2)", precio: 800, foto: " "},
+    {id:41, tipo: "Libro", nombre: "SENECA (EPISTOLAS MORALES A LUCILIO - 1)", precio: 800, foto: " "},
+];
+
